@@ -4,7 +4,9 @@
 
 ## About
 
-Mobile 2D arcade. The main goal of the game is to fly your rocket as high as possible. During the flight, you will need to refuel, collect coins, additional HP and many other bonuses, but just like that, you will be prevented from rising to the desired height by airplanes, balloons, and satellites with asteroids flying past.
+EN: Mobile 2D arcade. The main goal of the game is to fly your rocket as high as possible. During the flight, you will need to refuel, collect coins, additional HP and many other bonuses, but just like that, you will be prevented from rising to the desired height by airplanes, balloons, and satellites with asteroids flying past.
+
+RU: Мобильная 2д аркада. Главная цели игры - взлететь на своей ракете как можно выше. Во время полета вам нужно будет дозаправляться, собирать монеты, дополнительные хп и многие другие бонусы, но просто так подняться на нужную высоту вам будут мешать пролетающие мимо самолеты, воздушные шары, а выше спутники с астероидами.
 
 ## Developers
 
